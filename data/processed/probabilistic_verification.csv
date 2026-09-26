@@ -1,0 +1,6 @@
+metric,value
+Brier_Score,0.001040358289244979
+Observed_Event_Rate,0.0009762169584039945
+Climatology_Brier,0.000975263958854119
+Brier_Skill_Score,-0.06674534601621307
+Total_Evaluation_Points,1418742.0
